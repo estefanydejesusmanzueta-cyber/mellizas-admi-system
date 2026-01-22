@@ -3,14 +3,6 @@ Sistema Web Interno de Gestión Administrativa para Papelería Las Mellizas
 
 ---
 
-## Información Académica (UTECO)
-**Universidad Tecnológica del Cibao Oriental (UTECO)**  
-**Asignatura:** Proyecto Aplicado  
-**Tema:** Proyecto Final  
-**Maestro:** Francisco José Dilone Ortega  
-
----
-
 ## Ficha del Equipo
 | Integrantes | Matrícula |rol
 |-----------|----------|
